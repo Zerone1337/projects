@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.sqlbook": "sql",
+        "*.ndjson": "jsonl",
+        "*.dbclient-js": "javascript",
+        "*.embeddedhtml": "html",
+        "stdio.h": "c",
+        "1.C": "cpp"
+    },
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}
